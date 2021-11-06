@@ -77,34 +77,33 @@ Hello I'm [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://telegra.ph/file/d2
 ➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
 ➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Deepak] ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴀɴᴅ [Deepak](https://t.me/deepakjack007) ʜᴇʀᴇ.
 ➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ғᴇᴀᴛᴜʀᴇs.
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://t.me/Hollywood_movies_forever)""" 
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://t.me/Hollywood_movies_forever)"""
 
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ Aᴅᴅ 𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎 ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/Shu_kurenai_ro_bot?startgroup=true"),
+            text="➕️ Aᴅᴅ 𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎 ᴛᴏ ɢʀᴏᴜᴘ ➕️",
+            url="t.me/Shu_kurenai_ro_bot?startgroup=true",
+        ),
     ],
     [
         InlineKeyboardButton(text="❓𝐇𝐞𝐥𝐩", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(
-            text="🔥𝐋𝐨𝐠𝐬🔥", url="https://t.me/shukurenai007"),
-        InlineKeyboardButton(
-            text="🎉𝐒𝐮𝐩𝐩𝐨𝐫𝐭🎉", url="https://t.me/shukurenairobot007"),
+        InlineKeyboardButton(text="🔥𝐋𝐨𝐠𝐬🔥", url="https://t.me/shukurenai007"),
+        InlineKeyboardButton(text="🎉𝐒𝐮𝐩𝐩𝐨𝐫𝐭🎉", url="https://t.me/shukurenairobot007"),
     ],
-    [  
-        InlineKeyboardButton(text="👨‍💻𝐎𝐰𝐧𝐞𝐫👨‍💻", url="https://t.me/deepakjack007"
-    ),
-    ], 
     [
-        InlineKeyboardButton(text="🍿𝐌𝐨𝐯𝐢𝐞𝐬🍿", url="https://t.me/joinchat/r9qx47U5xEZjY2E1"
-    ), 
+        InlineKeyboardButton(text="👨‍💻𝐎𝐰𝐧𝐞𝐫👨‍💻", url="https://t.me/deepakjack007"),
     ],
-    [   
-        InlineKeyboardButton(text="💥𝐔𝐩𝐝𝐚𝐭𝐞𝐬💥", url="https://t.me/shukurenai007"
-    ),
+    [
+        InlineKeyboardButton(
+            text="🍿𝐌𝐨𝐯𝐢𝐞𝐬🍿", url="https://t.me/joinchat/r9qx47U5xEZjY2E1"
+        ),
+    ],
+    [
+        InlineKeyboardButton(text="💥𝐔𝐩𝐝𝐚𝐭𝐞𝐬💥", url="https://t.me/shukurenai007"),
     ],
 ]
 
@@ -113,7 +112,6 @@ HELP_STRINGS = """
 ꧁CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎꧂
 𖣘 All commands can either be used with / or !.
 𖣘 If you facing any issue or find any bugs in any command then you can report it @shukurenairobot007 /  @Hollywood_movies_forever* [.](https://telegra.ph/file/676af13bd204af54a41b5.jpg)"""
-
 
 
 Shukurenai_IMG = "https://telegra.ph/file/d20c98947f200899c2fa6.jpg"
