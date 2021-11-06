@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/977804a3688cded6ba673.jpg">
+  <img src="https://telegra.ph/file/d20c98947f200899c2fa6.jpg">
 </p>
 
-# MissShasa_Gbot
-Me On Telegram [✨Miss Shasa✨](http://t.me/MissShasa_bot)
+# 𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎_bot
+Me On Telegram [😎𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎😎](http://t.me/)
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MdNoor786/ShasaBot-1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/shukurenaibotcreate/shukurenairobot-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 CREDITS
 ```
