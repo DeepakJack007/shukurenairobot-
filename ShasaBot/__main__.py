@@ -77,7 +77,7 @@ Hello I'm [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://telegra.ph/file/d2
 ➪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴇxᴘʟᴏsɪᴠᴇ.
 ➪ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Deepak] ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴀɴᴅ [Deepak](https://t.me/deepakjack007) ʜᴇʀᴇ.
 ➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ғᴇᴀᴛᴜʀᴇs.
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://t.me/Hollywood_movies_forever) 
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎](https://t.me/Hollywood_movies_forever)""" 
 
 
 buttons = [
@@ -107,7 +107,6 @@ buttons = [
     ),
     ],
 ]
-
 
 HELP_STRINGS = """
 *༆𝕾𝖍𝖚 𝖐𝖚𝖗𝖊𝖓𝖆𝖎 comes with many special features in it༆
