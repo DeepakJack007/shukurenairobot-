@@ -11,7 +11,6 @@ from pyrogram.errors.exceptions.bad_request_400 import (
     UserNotParticipant,
 )
 from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
-
 from shukurenaiBot import DRAGONS as SUDO_USERS
 from shukurenaiBot import pbot
 from shukurenaiBot.modules.sql_extended import forceSubscribe_sql as sql
