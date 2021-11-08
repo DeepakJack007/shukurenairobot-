@@ -37,15 +37,15 @@ from ShasaBot import (
     dispatcher,
     sw,
 )
-from ShasaBot.modules.helper_funcs.chat_status import is_user_ban_protected, user_admin
-from ShasaBot.modules.helper_funcs.misc import build_keyboard, revert_buttons
-from ShasaBot.modules.helper_funcs.msg_types import get_welcome_type
-from ShasaBot.modules.helper_funcs.string_handling import (
+from ShukurenaiBot.modules.helper_funcs.chat_status import is_user_ban_protected, user_admin
+from ShukurenaiBot.modules.helper_funcs.misc import build_keyboard, revert_buttons
+from ShukurenaiBot.modules.helper_funcs.msg_types import get_welcome_type
+from ShukurenaiBot.modules.helper_funcs.string_handling import (
     escape_invalid_curly_brackets,
     markdown_parser,
 )
-from ShasaBot.modules.log_channel import loggable
-from ShasaBot.modules.sql.global_bans_sql import is_user_gbanned
+from ShukurenaiBot.modules.log_channel import loggable
+from ShukurenaiBot.modules.sql.global_bans_sql import is_user_gbanned
 
 VALID_WELCOME_FORMATTERS = [
     "first",
