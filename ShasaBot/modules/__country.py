@@ -1,7 +1,7 @@
 import flag
 from countryinfo import CountryInfo
-from ShukurenaiBot import telethn as borg
-from ShukurenaiBot.events import register
+from ShasaBotBot import telethn as borg
+from ShasaBotBot.events import register
 
 
 @register(pattern="^/country (.*)")
